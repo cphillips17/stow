@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312117762447",
+    "project_id": "stow-senior-design",
+    "storage_bucket": "stow-senior-design.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312117762447:android:31dc7b62f0eb6af53f53fa",
+        "android_client_info": {
+          "package_name": "com.stow.mobile.alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312117762447-covt98c17bl12nd9nn10jtcslenelch4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw4VKx4VoG8zbaLxyo0j8QMKIYRxW7pnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312117762447-covt98c17bl12nd9nn10jtcslenelch4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
